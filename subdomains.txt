@@ -1,5 +1,6 @@
 www
 mail
+beta
 ftp
 localhost
 webmail
@@ -30,7 +31,6 @@ old
 new
 mobile
 mysql
-beta
 support
 cp
 secure
